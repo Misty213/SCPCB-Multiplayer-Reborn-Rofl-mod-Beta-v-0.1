@@ -1,0 +1,687 @@
+
+*Programmers
+
+		Joonas Rikkonen ("Regalis")
+		https://github.com/Regalis11
+		
+		Juan Pablo Arce ("Juanjpro")
+		https://github.com/juanjp600
+		
+		Shaun Gaylard ("ENDSHN")
+		https://github.com/ENDSHN
+		
+		CommanderMark
+		Jesse Ludtke ("MonocleBios")
+		Luggs123
+		Ryan Stillings ("Risingstar64")
+		Sam Lynch ("InnocentSam")
+
+*3D Modellers
+		
+		Joonas Rikkonen ("Regalis")
+		https://github.com/Regalis11
+		
+		Shaun Gaylard ("ENDSHN")
+		https://github.com/ENDSHN
+		
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+		
+		GruppyJB
+		https://www.turbosquid.com/Search/Artists/gruppyJB
+		
+		thethieme
+		https://sketchfab.com/thethieme
+		
+		tboiston
+		https://sketchfab.com/tboiston
+		
+		PersianTiger
+		https://sketchfab.com/afsoft
+		
+		Apocryphos
+		Atomicsneak
+		Brandon Smith
+		EternalError
+		GamerEntitlement
+		Hakkla
+		Ivan Mikhailov ("Redbull.Ivan")
+		James Bear ("Moonsaber")
+		Kenneth Crooker
+		Lionel Ruskin ("Cridone")
+		Micro
+		Night
+		Prosth
+		TheKMan
+		Reilly Grindle ("Mirocaine")
+		SaitoFox
+		Sam Lynch ("InnocentSam")
+		Tom Malinowski
+
+*Sound Effects and Music
+
+		Joonas Rikkonen ("Regalis")
+		https://github.com/Regalis11
+	
+		FireFox
+		https://www.youtube.com/channel/UC8L5UJXxO13J06ZuhWph1IQ
+		
+		Kevin MacLeod
+		https://www.youtube.com/user/kmmusic
+		
+		Shaun Gaylard ("ENDSHN")
+		https://github.com/ENDSHN
+		
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+		
+		Caleb Yu ("Omniary")
+		Class401
+		gmodfan11
+		phlip45
+		revo794
+		Slagar
+		Tim Morrison
+		Walach
+
+*Voice Actors
+
+		Aaron Mckee ("TheVolgun")
+		https://www.youtube.com/user/TheVolgun
+		
+		Brendan Sussman ("DukeLovesYou")
+		CDWinters
+		Graham Ruruku ("Stealthy Zoroark")
+		Hunter
+		ItsDuke
+		Joshofsouls
+		Moonstiee
+		SolidBaker
+		Tallfellow
+
+*Graphics and Sprites
+
+		Joonas Rikkonen ("Regalis")
+		https://github.com/Regalis11
+		
+		Shaun Gaylard ("ENDSHN")
+		https://github.com/ENDSHN
+		
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+		
+		Anon4743
+		Balzac
+		Brokami
+		Caleb Yu ("Omniary")
+		KyoteeWilliams
+		Orgil Pount ("Destructoid")
+		Pavel Lvovich Gorfunkel ("-Mark-")
+		Shadowscale48
+
+*Writers
+
+		Joonas Rikkonen ("Regalis")
+		https://github.com/Regalis11
+		
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+		
+		Dr. Gears
+		https://www.wikidot.com/user:info/dr-gears
+		
+		Caleb Yu ("Omniary")
+		Irontaco
+		Steelpoint
+
+*Testers
+
+		TheHappyJammer
+		https://www.twitch.tv/thehappyjammer
+		
+		Christian Rieß
+		Emil215p
+		Flipsy
+		Inclination
+		LordDeathv11
+		Onemario1234
+		RadReed
+		Zadrakos
+
+*Others
+
+		Nikita Sidorov ("Jabka")
+		https://github.com/Jabka666
+		
+		Agent G
+		Gage Allen ("Lotims")
+		Haversine
+		Max Taylor
+		Meow :3
+		Turtle Sandwich/Catnipbuddy
+		/v/ and everyone in the SCP-CB forum
+
+*UE MOD Creators
+
+		Nikita Sidorov ("Jabka")
+		https://github.com/Jabka666
+		
+		SnoeBrawler
+		https://github.com/SnoeGit
+		
+		Egor Oleynik ("Wolfnaya")
+		https://github.com/wolfnaya
+		
+		ZiYueCommentary
+		https://github.com/ZiYueCommentary
+		
+		itzslain
+		https://github.com/itzslain
+
+		Andre Pari ("ADMClef")
+		racer_216
+
+*UERM Developers
+
+		Andre Pari ("ADMClef")
+
+		Dmitry ("Ne4to")
+		https://github.com/Ne4to-podobnoe
+
+		Yaroslav ("itzslain")
+		https://github.com/itzslain
+
+		Nikita Sidorov ("Jabka")
+		https://github.com/Jabka666
+
+		Xandromeda
+		https://github.com/XandromedaOfficial
+
+		SnoeBrawler
+		https://github.com/SnoeGit
+
+		Zavpw "Yullisummary"
+		
+		ZiYueCommentary
+		https://github.com/ZiYueCommentary
+
+		Michael ("Mixarar")
+
+*EX-developers
+		
+		Stefan Koch ("Salvage")
+		https://github.com/Saalvage
+		
+		Egor Oleynik ("Wolfnaya")
+		https://github.com/wolfnaya
+
+		AndyWithCatz
+
+		mishutka154
+
+		EpicDasherFR
+		https://github.com/EpicDasherFR
+
+		Vladislav Borisevich ("Vane Brain")
+
+		Dmitriy Sazanov ("Dmitriy-Bars")
+		https://scpcontainmentbreach.fandom.com/ru/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:Dmitriy-Bars
+
+		slend
+		https://github.com/slend13561
+
+		Ashad Jackson ("ashadttt") 
+		Leonard Blackmore ("UnknownDev")
+		C45
+		Yuri Novikov ("BayanForce")
+		Dawid Mleczko ("Mleczyk76")
+		Ayylien
+		
+*Contributors
+
+		Shaun Gaylard ("ENDSHN")
+		https://github.com/ENDSHN
+
+		juanjp600
+		https://github.com/juanjp600
+
+		Alexander Deshko ("CmElektrik") 
+		https://www.youtube.com/@CmElektrik
+
+		Levi The Boss
+		https://www.youtube.com/@LTB1360
+		
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+
+		Dmitry Afanasenko ("Ne4to")
+		https://github.com/Ne4to-podobnoe
+
+		Quote
+		https://github.com/ChronoQuote
+
+		TheHappyJammer
+		https://www.twitch.tv/thehappyjammer
+		
+		Kacey Roberts ("I8aDOG")
+		https://github.com/I8aDOG
+
+		XtrithX
+		https://www.youtube.com/channel/UCbk12Ez1p6RZfkorjMQ3Hxg
+
+		artoka
+		https://github.com/artoka315
+		
+		Xstallm
+		https://github.com/jolopapina
+
+		yungDoom
+		https://github.com/yungDoom
+
+		MidnightFirefly and The Lunatic as creators of mod's wiki page
+		https://scpcontainmentbreach.fandom.com/ru/wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:MidnightFirefly67
+
+		Glebux
+		https://github.com/Glebux
+
+		EasyT_T
+		https://github.com/EasyT-T
+
+		Seth Smith ("Faust")
+		Sehnor
+		Ivan Mikhailov ("Redbull.Ivan")
+		Elan S.
+		Vladster_flomaster
+		Andy's Toy
+		aciu
+		SPOOKYfellow
+		Morgan Dusty
+		SynthMaster
+		MetridSiardily
+		neptuneprogamertv
+		The KMan
+		purseit
+		Dreamanchik
+		Time_the_Creator
+		Femcube Zero
+		BerkeliumΛsset
+		PizzaLover
+		metalLdimic
+		scp-963-2?
+		C://Yes, I'm a D.exe//
+		Maxim41k
+		Shpyonchycen_49863
+		Tesser
+		Ruvder
+		Velese
+		errorOff1cal
+		All testers from our discord server :-)		
+
+*Our Game Sponsors
+
+		Memo
+		MasterFighter
+		Hungarian_Back_Scratcher
+		Majestät
+		Squintem
+		cool henry
+		XXXManera
+		Kuze
+		Аvectim
+		maxim4ik
+		Sundown
+		teen
+		Leichttraktor
+		yes, I'm D
+		Horikyma
+		rexvq
+*Mod Testers
+		
+		Phoenix Adverdale
+		https://www.youtube.com/channel/UCLmwrt4pWGrSv2yVXrplWlQ
+		
+		Omnisix
+		https://www.youtube.com/channel/UCSedr4MqcTC5CsFGSZwNwMw
+
+		Alexey Krasnov ("TaskeWSH")
+		LoneWolf
+		[dataexpunded]
+		ALeKS GM
+		rus_hunter
+		Vladislav Safonov ("Onmane")
+		Nero
+		D://Yes, I'm a D.exe//
+		The Lunatic
+		Sevenn
+		ShipyonChycen
+		Ayashmara
+		Tesser
+		D-co
+		My name is ERROR
+		RUVDER
+		Cacubeleleu
+*Translators
+
+		Russian translation:
+		
+			Nikita Sidorov ("Jabka")
+			https://github.com/Jabka666
+		
+			mishutka154
+			https://github.com/mishutka154
+							
+			Ivan Mikhailov ("Redbull.Ivan")
+			
+			Vladster_flomaster
+
+			TrillTeam:
+			https://www.youtube.com/c/TrillTeam
+
+				Alexander Deshko ("CmElektrik") 
+				https://www.youtube.com/@CmElektrik
+
+				Ivan Badikov
+				Alexey Chekanov
+				Arsenii Abramov 
+				Anatolii Kononov
+				Kreostat Kreostovsky 
+				Alexey Kuzmin 
+				Alexander Orlov
+				Vladislav Semetsky 
+				Voice Synth 
+				Ivan Mikhailov ("Redbull.Ivan")
+				MIkhail Natarius ("FilinMinv")
+				Oleg Siryak 
+				Nikolai Markozov 
+				Ilya Tesakov 
+				Mikhail Arsenyuk
+
+		Spanish translation:
+		
+			angael graciaf.psd
+			kSuzuku
+			
+		Chinese translation:
+		
+			ZiYueCommentary
+			https://github.com/ZiYueCommentary
+		
+		Czech translation:
+		
+			Author unknown
+			
+		Turkish translation:
+				
+			Burak Yılmaz
+			https://weblate.ziyuesinicization.site/user/p1.Burak/
+			
+			Tskrisus
+			L
+			Mericchi 
+			
+		Portuguese (Brazil) translation:
+		
+			Ariel 
+			
+		Polish translation:
+		
+			Author unknown
+			
+		Korean translation:
+		
+			Author unknown
+
+		Italian translation:
+		
+			Author unknown
+			
+		Hungarian translation:
+			
+			Author unknown
+			
+		German translation:
+			
+			Author unknown
+			
+		French translation:
+		
+			EpicDasherFR
+			https://github.com/EpicDasherFR
+			
+		Ukrainian translation:
+			
+			xstallm
+			
+*Blitz3D Engine Creators
+
+		Blitz3D Engine made by Mark Sibly
+		https://blitzresearch.itch.io/blitz3d
+		Thank you for creating an engine that became SCP CB's engine of use. Rest well.
+
+*Blitz3D TSS Creators and Contributors
+
+		juanjp600
+		https://github.com/juanjp600
+
+		Stefan Koch ("Salvage")
+		https://github.com/Saalvage
+
+		Vladislav Borisevich ("Vane Brain")
+		https://github.com/VaneBrain
+
+		AnalogFeelings
+		https://github.com/AnalogFeelings
+
+		ZiYueCommentary
+		https://github.com/ZiYueCommentary
+		
+		EasyT_T
+		https://github.com/EasyT-T
+		
+		Dmitry Afanasenko ("Ne4to")
+		https://github.com/Ne4to-podobnoe
+		
+*CBRE-EX/CBRE/Sledge Creators
+
+		AnalogFeelings - Creator of CBRE-EX
+		https://github.com/AnalogFeelings
+		https://github.com/AnalogFeelings/cbre-ex
+
+		LogicAndTrick - The original creator of Sledge, the software CBRE (and thus, CBRE-EX) are based on
+		https://github.com/LogicAndTrick/sledge
+
+		juanjp600 - Creator of CBRE, originally known as SledgeCB
+		https://github.com/juanjp600
+		https://github.com/SCP-CBN/cbre
+
+		Stefan Koch ("Salvage") - Helped with CBRE development
+		https://github.com/Saalvage
+
+		VirtualBrightPlayz - Creator of another CBRE fork, he wrote the model baking code
+		https://github.com/VirtualBrightPlayz/cbre
+
+*DgVoodoo2 Creators 
+
+		Dgvoodoo2 made by Dege and Diosg
+		https://github.com/dege-diosg/dgVoodoo2
+		Thanks a lot to them for the right to use their software in our game!
+
+*Some Materials Taken from or Idealized by:
+
+		SCP - Containment Breach official wiki (ENG):
+		www.scpcb.gamepedia.com
+
+		SCP - Containment Breach official wiki (RUS):
+		www.scpcontainmentbreach.fandom.com/ru/
+
+		The SCP Foundation (ENG):
+		www.scpfoundation.net
+
+		The SCP Foundation (RUS):
+		www.scpfoundation.ru
+
+		The Box of Horrors mod for "SCP - Containment Breach":
+		https://undertowgames.com/forum/viewtopic.php?t=3404
+		
+		Project Resurrection mod for "SCP - Containment Breach":
+		https://www.moddb.com/mods/scpcb-project-resurrection-mod
+
+		Field Of View (FOV) mod for "SCP - Containment Breach":
+		https://www.moddb.com/mods/scp-containment-breach-field-of-view-fov-addon
+
+		Gameplay Overhaul mod for "SCP - Containment Breach":
+		https://www.moddb.com/mods/scp-containment-breach-gameplay-overhaul
+
+		SCP - Containment Breach Nine Tailed Fox:
+		https://store.steampowered.com/app/1304510/SCP_NineTailed_Fox/
+
+		SCP Security Stories mod: 
+		https://www.moddb.com/mods/scp-security-stories
+
+*The game is based on the works of the SCP Foundation community.
+
+		The SCP-CB logo and SCP logo are based on the logo created,
+by "far2" https://www.wikidot.com/user:info/far2
+
+		SCP-005 is based on "SCP-005 - Skeleton Key",
+author unknown
+
+		SCP-008 is based on "SCP-008 - Zombie Plague",
+by "Lee Byron" https://www.wikidot.com/user:info/lee-byron
+
+		SCP-009 is based on "SCP-009 - Red Ice",
+by "Chameleon X"
+
+		SCP-012 is based on "SCP-012 - A Bad Composition",
+by "xthevilecorruptor" https://www.wikidot.com/user:info/xthevilecorruptor
+
+		SCP-035 is based on "SCP-035 - Possessive Mask",
+by "Kain Pathos Crow" https://www.wikidot.com/user:info/kain-pathos-crow
+
+		SCP-049 is based on "SCP-049 - Plague Doctor",
+by "Gabriel Jade" https://www.wikidot.com/user:info/gabriel-jade
+
+		SCP-066 is based on "SCP-066 - Eric's Toy",
+by "Scantron"
+
+		SCP-079 is based on "SCP-079 - Old AI",
+by "far2" https://www.wikidot.com/user:info/far2
+
+		SCP-085 is based on "SCP-085 - Drawn Cassandra",
+by "FritzWillie"
+
+		SCP-096 is based on "SCP-096 - The 'Shy Guy'",
+by "Dr. Dan"
+
+		SCP-106 is based on "SCP-106 - The Old Man",
+by "Dr. Gears" https://www.wikidot.com/user:info/dr-gears
+
+		SCP-148 is based on "SCP-148 - The "Telekill" Alloy",
+by "Lt Masipag"
+
+		SCP-173 is based on "SCP-173 - The Sculpture",
+by "Moto42"
+
+		SCP-205 is based on "SCP-205 - Shadow Lamps", 
+by "Sorts"
+
+		SCP-268 is based on "SCP-268 - Cap of Neglect", 
+by "Pair Of Ducks"
+
+		SCP-294 is based on "SCP-294 - The Coffee Machine",
+by "far2" https://www.wikidot.com/user:info/far2
+
+		SCP-372 is based on "SCP-372 - Peripheral Jumper",
+by "Sylocat"
+
+		SCP-409 is based on "SCP-409 - Contagious Crystal",
+by "Dr. Gears" https://www.wikidot.com/user:info/dr-gears
+
+		SCP-420-J is based on "SCP-420-J - The Best ____ in the World",
+by "Quikngruvn"
+
+		SCP-427 is based on "SCP-427 - Lovecraftian Locket",
+by "Dr. Ouros"
+
+		SCP-458 is based on "SCP-458 - The Never-Ending Pizza Box",
+by "Palhinuk"
+
+		SCP-500 is based on "SCP-500 - Panacea",
+by "far2" https://www.wikidot.com/user:info/far2
+
+		SCP-513 is based on "SCP-513 - A Cowbell",
+by "beefwit"
+
+		SCP-682 is based on "SCP-682 - Hard-to-Destroy Reptile",
+by "Dr. Gears" https://www.wikidot.com/user:info/dr-gears
+
+		SCP-714 is based on "SCP-714 - The Jaded Ring",
+by "Arcalane" https://www.wikidot.com/user:info/arcalane
+
+		SCP-789-J is based on "SCP-789-J - The Butt Ghost!!!",
+by "Salman Corbette"
+
+		SCP-860 is based on "SCP-860 - Blue Key",
+by "Enma Ai"
+
+		SCP-895 is based on "SCP-895 - Camera Disruption",
+by "Aelanna"
+
+		SCP-914 is based on "SCP-914 - The Clockworks",
+by "Dr. Gears" https://www.wikidot.com/user:info/dr-gears
+
+		SCP-939 is based on "SCP-939 - With Many Voices",
+by "Adam Smascher"
+
+		SCP-966 is based on "SCP-966 - Sleep Killer",
+by "Enma Ai"
+
+		SCP-970 is based on "SCP-970 - The Recursive Room",
+by "Freudian"
+
+		SCP-1025 is based on "SCP-1025 - Encyclopedia of Diseases",
+by "Lasergoose"
+
+		SCP-1048 is based on "SCP-1048 - Builder Bear",
+by "Researcher Dios"
+
+		SCP-1123 is based on "SCP-1123 - Atrocity Skull",
+by "sandrewswann"
+
+		SCP-1162-ARC is based on "SCP-1162-ARC - A Hole in the Wall",
+by "Dedaluminus"
+
+		SCP-1499 is based on "SCP-1499 - The Gas Mask",
+by "Trasknari"
+
+		SCP-2022 is based on "SCP-2022 - BoraBora",
+by "Bucell"
+
+		The Anomalous Ducks are based on "Log of Anomalous Ducks",
+by "Skara Brae"
+
+		The Anomalous Items are based on "Log of Anomalous Items",
+by "Sophia Light"
+
+/
+	A big thank you to everyone who's supported the project during these years
+	- it would have	never gotten to where it is now without your help.
+
+	SCP-CB has been a big collaborative effort with dozens (maybe even hundreds?)
+	of people creating material and giving ideas and feedback for the game, and
+	I'm sure I've forgotten to mention some of you here. If you've contributed
+	something to the game and would like your name to be added here, drop
+	me a message on the Undertow Games forum or contact@undertowgames.com!
+	- P. S. Don't contact anymore, original is discontinued :)
+
+	- Joonas Rikkonen ("Regalis"), Lead Developer of the original
+	
+	A big smile for all community members of SCP - Containment Breach!
+	Ultimate Edition would have not come this far if it were not for the support,
+	ideas, and love for the original by Regalis. Thank you Jabka, Vane, and many
+	other Containment Breach mod project leads out there for continuing to create mods
+	that would give life to the original. Thank you (ex-) team members and helpers who
+	worked on this mod. If you would like to contact us for anything
+	such as missing credits or bugs then contact us on Discord! Link on the Launcher.
+	
+	- Snoebrawler, Lead Developer of the Ultimate Edition
