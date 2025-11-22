@@ -20,7 +20,7 @@
 
 Связи с разработчиком:
 
-Дискорд сервер студии - https://discord.gg/bXtw4JAR9q
+Дискорд сервер студии (devlog-и выходят там)- https://discord.gg/bXtw4JAR9q
 
 
 Разботчик мода- Misty
